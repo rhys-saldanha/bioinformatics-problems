@@ -1,0 +1,16 @@
+1HH 1Hh 1hh
+
+-HH Hh
+	HH	Hh
+	HH	Hh
+
+-HH hh
+	Hh	Hh
+	Hh	Hh
+
+-Hh hh
+	Hh	hh
+	hh	hh
+
+4/4 4/4 1/4 = 9/12
+
